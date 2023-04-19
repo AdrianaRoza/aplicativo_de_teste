@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457372939740",
+    "project_id": "aplicativo-de-teste-2befb",
+    "storage_bucket": "aplicativo-de-teste-2befb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457372939740:android:dd8c7a8f3589f0f53a8b19",
+        "android_client_info": {
+          "package_name": "com.stackmobile.aplicativodeteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457372939740-4trgm7uta5v8j8ri2dflh5prt3ug2uht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0VIZid1K5l9LXyWHlqCOVgCrMjzmt6rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457372939740-4trgm7uta5v8j8ri2dflh5prt3ug2uht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
